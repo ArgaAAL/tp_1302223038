@@ -1,0 +1,17 @@
+C:\AAL\TP\KPL\TP3\tp_1302223038\tp_1302223038\bin\Debug\net8.0-windows\tp_1302223038.exe
+C:\AAL\TP\KPL\TP3\tp_1302223038\tp_1302223038\bin\Debug\net8.0-windows\tp_1302223038.deps.json
+C:\AAL\TP\KPL\TP3\tp_1302223038\tp_1302223038\bin\Debug\net8.0-windows\tp_1302223038.runtimeconfig.json
+C:\AAL\TP\KPL\TP3\tp_1302223038\tp_1302223038\bin\Debug\net8.0-windows\tp_1302223038.dll
+C:\AAL\TP\KPL\TP3\tp_1302223038\tp_1302223038\bin\Debug\net8.0-windows\tp_1302223038.pdb
+C:\AAL\TP\KPL\TP3\tp_1302223038\tp_1302223038\obj\Debug\net8.0-windows\tp_1302223038.Form1.resources
+C:\AAL\TP\KPL\TP3\tp_1302223038\tp_1302223038\obj\Debug\net8.0-windows\tp_1302223038.csproj.GenerateResource.cache
+C:\AAL\TP\KPL\TP3\tp_1302223038\tp_1302223038\obj\Debug\net8.0-windows\tp_1302223038.GeneratedMSBuildEditorConfig.editorconfig
+C:\AAL\TP\KPL\TP3\tp_1302223038\tp_1302223038\obj\Debug\net8.0-windows\tp_1302223038.AssemblyInfoInputs.cache
+C:\AAL\TP\KPL\TP3\tp_1302223038\tp_1302223038\obj\Debug\net8.0-windows\tp_1302223038.AssemblyInfo.cs
+C:\AAL\TP\KPL\TP3\tp_1302223038\tp_1302223038\obj\Debug\net8.0-windows\tp_1302223038.csproj.CoreCompileInputs.cache
+C:\AAL\TP\KPL\TP3\tp_1302223038\tp_1302223038\obj\Debug\net8.0-windows\tp_1302223038.dll
+C:\AAL\TP\KPL\TP3\tp_1302223038\tp_1302223038\obj\Debug\net8.0-windows\refint\tp_1302223038.dll
+C:\AAL\TP\KPL\TP3\tp_1302223038\tp_1302223038\obj\Debug\net8.0-windows\tp_1302223038.pdb
+C:\AAL\TP\KPL\TP3\tp_1302223038\tp_1302223038\obj\Debug\net8.0-windows\tp_1302223038.genruntimeconfig.cache
+C:\AAL\TP\KPL\TP3\tp_1302223038\tp_1302223038\obj\Debug\net8.0-windows\ref\tp_1302223038.dll
+C:\AAL\TP\KPL\TP3\tp_1302223038\tp_1302223038\obj\Debug\net8.0-windows\tp_1302223038.sourcelink.json
